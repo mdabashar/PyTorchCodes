@@ -1,2 +1,2 @@
 # PyTorch Practice
-Code for PyTorch Application
+Code for PyTorch Practice
